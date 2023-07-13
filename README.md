@@ -110,6 +110,11 @@ TLSfeat provides nice printing in terminal with multicolors as default, which wo
 
 To print in mono color, use ```--no-color``` option.
 
+**Screenshot**
+
+<img width="1303" alt="screenshot_tlsfeat" src="https://github.com/zliucd/TLSfeat/assets/89120271/fc136110-6ebd-4f17-8d31-bcfbcc4c8f4c">
+
+
 ## Benchmarks
 
 Benchmarks of performance and artifacts extraction are well documented in TLSfeat_Benchmarks.pdf. 
